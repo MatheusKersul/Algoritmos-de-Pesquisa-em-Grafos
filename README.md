@@ -12,7 +12,20 @@ Aplicação Java com interface gráfica para visualização e execução de algo
   - Matriz de Incidência
   - Lista de Incidência (Lista de Adjacência)
 - **Importação via arquivo `.txt`** para carregar grafos de forma prática
-- Execução de algoritmos de pesquisa/busca em grafos
+
+
+---
+
+## 🧠 Algoritmos Implementados
+
+- Busca em Profundidade (DFS)
+- Busca em Largura (BFS)
+- Verificação de Ciclos
+- Árvore Geradora Mínima — Kruskal
+- Caminho Mínimo — Dijkstra
+- Caminho Mínimo — Bellman-Ford
+- Fluxo Máximo — Ford-Fulkerson
+- Componentes Fortemente Conectadas — Kosaraju
 
 ---
 
@@ -84,10 +97,4 @@ O grafo pode ser carregado por meio de um arquivo de texto. O formato esperado �
    - Carregue um grafo via arquivo `.txt` ou insira manualmente
    - Execute o algoritmo de busca
 
----
-
-## 🛠️ Tecnologias
-
-- **Linguagem:** Java (100%)
-- **Interface Gráfica:** Java Swing / AWT
 
