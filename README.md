@@ -97,4 +97,5 @@ O grafo pode ser carregado por meio de um arquivo de texto. O formato esperado Ã
    - Carregue um grafo via arquivo `.txt` ou insira manualmente
    - Execute o algoritmo de busca
 
+<p align="center"><img width="500" src="https://github.com/user-attachments/assets/d7de1c93-a0a4-423e-85c3-4d9057ba145f" /></p>
 
